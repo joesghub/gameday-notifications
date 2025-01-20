@@ -152,7 +152,7 @@ cd game-day-notifications
 ![Scheduling gameday notifications](https://github.com/joesghub/gameday-notifications/blob/main/screenshots/9.%20scheduling%20gameday%20notifications.png?raw=true)
 
 
-## **What We Learned**
+## **What I Learned**
 1. Designing a notification system with AWS SNS and Lambda.
 2. Securing AWS services with least privilege IAM policies.
 3. Automating workflows using EventBridge.
