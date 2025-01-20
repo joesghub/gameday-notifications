@@ -152,7 +152,7 @@ cd game-day-notifications
 ![Scheduling gameday notifications](https://github.com/joesghub/gameday-notifications/blob/main/screenshots/9.%20scheduling%20gameday%20notifications.png?raw=true)
 
 
-### **What We Learned**
+## **What We Learned**
 1. Designing a notification system with AWS SNS and Lambda.
 2. Securing AWS services with least privilege IAM policies.
 3. Automating workflows using EventBridge.
@@ -160,7 +160,7 @@ cd game-day-notifications
 ![Successful gameday notification](https://github.com/joesghub/gameday-notifications/blob/main/screenshots/8.%20successful%20gameday%20notification.png?raw=true)
 
 
-### **Future Enhancements**
+## **Future Enhancements**
 1. **Enhanced API Integration**: Expand the notification system to include more APIs, enabling notifications for additional sports leagues or other event categories.
 2. **Multi-Region Deployment**: Improve system resilience and reduce latency by deploying the Lambda function and SNS topics across multiple AWS regions.
 3. **User Management and Preferences**: Build a frontend or backend user management system where subscribers can set preferences for notification channels (email, SMS, or push) and notification frequency.
